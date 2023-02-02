@@ -1,0 +1,5 @@
+dart Native > CPU의 아키텍쳐에 맞게 변환(ARM32, ARM64(모바일), x86_64)
+dart Web > 코드 자바스크립트로 변환
+
+JIT just in time
+AOT ahead of time
